@@ -1,0 +1,17 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Data files (keep raw datasets local, not on GitHub)
+data/*.csv
+data/*.xlsx
+
+# Output and result files
+outputs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
